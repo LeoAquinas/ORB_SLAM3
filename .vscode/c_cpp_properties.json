@@ -1,0 +1,41 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/dog/yea/install/yolo_msgs/include/**",
+        "/home/dog/yea/install/turtlebot3_msgs/include/**",
+        "/home/dog/yea/install/dynamixel_sdk/include/**",
+        "/home/dog/test/install/turtlebot3_fake_node/include/**",
+        "/home/dog/test/install/turtlebot3_msgs/include/**",
+        "/home/dog/test/install/turtlebot3_gazebo/include/**",
+        "/home/dog/test/install/robot_localization/include/**",
+        "/home/dog/test/install/opendog_msgs/include/**",
+        "/home/dog/test/install/odrive_hardware_interface/include/**",
+        "/home/dog/test/install/image_transport/include/**",
+        "/home/dog/test/install/image_geometry/include/**",
+        "/home/dog/test/install/geodesy/include/**",
+        "/home/dog/test/install/geographic_msgs/include/**",
+        "/home/dog/test/install/dynamixel_sdk_custom_interfaces/include/**",
+        "/home/dog/test/install/dynamixel_sdk/include/**",
+        "/home/dog/test/install/cv_bridge/include/**",
+        "/home/dog/test/install/camera_info_manager/include/**",
+        "/home/dog/test/install/camera_calibration_parsers/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/dog/yea/ORB_SLAM3/include/**",
+        "/home/dog/yea/src/DynamixelSDK/dynamixel_sdk/include/**",
+        "/home/dog/yea/src/rf2o_laser_odometry/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

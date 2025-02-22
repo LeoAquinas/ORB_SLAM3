@@ -1,7 +1,7 @@
 CMakeFiles/g2o.dir/g2o/core/batch_stats.cpp.o: \
- /home/rasp7/ORB_SLAM3/Thirdparty/g2o/g2o/core/batch_stats.cpp \
+ /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/g2o/core/batch_stats.cpp \
  /usr/include/stdc-predef.h \
- /home/rasp7/ORB_SLAM3/Thirdparty/g2o/g2o/core/batch_stats.h \
+ /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/g2o/core/batch_stats.h \
  /usr/include/c++/11/iostream \
  /usr/include/aarch64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/aarch64-linux-gnu/c++/11/bits/os_defines.h \

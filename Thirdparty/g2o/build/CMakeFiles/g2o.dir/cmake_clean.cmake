@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/rasp7/ORB_SLAM3/Thirdparty/g2o/lib/libg2o.pdb"
-  "/home/rasp7/ORB_SLAM3/Thirdparty/g2o/lib/libg2o.so"
+  "/home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/lib/libg2o.pdb"
+  "/home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/lib/libg2o.so"
   "CMakeFiles/g2o.dir/g2o/core/batch_stats.cpp.o"
   "CMakeFiles/g2o.dir/g2o/core/batch_stats.cpp.o.d"
   "CMakeFiles/g2o.dir/g2o/core/cache.cpp.o"

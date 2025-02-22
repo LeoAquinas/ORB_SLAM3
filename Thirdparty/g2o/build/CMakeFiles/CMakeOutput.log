@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/3.25.1/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/3.25.1/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
@@ -23,13 +23,13 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/3.25.1/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/3.25.1/CompilerIdCXX/a.out"
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-AV2dBy
+Change Dir: /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-AV2dBy
 
 Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_4ffa0/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_4ffa0.dir/build.make CMakeFiles/cmTC_4ffa0.dir/build
-gmake[1]: Entering directory '/home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-AV2dBy'
+gmake[1]: Entering directory '/home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-AV2dBy'
 Building C object CMakeFiles/cmTC_4ffa0.dir/CMakeCCompilerABI.c.o
 /usr/bin/cc   -v -o CMakeFiles/cmTC_4ffa0.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-3.25/Modules/CMakeCCompilerABI.c
 Using built-in specs.
@@ -82,7 +82,7 @@ LIBRARY_PATH=/usr/lib/gcc/aarch64-linux-gnu/11/:/usr/lib/gcc/aarch64-linux-gnu/1
 COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_4ffa0' '-mlittle-endian' '-mabi=lp64' '-dumpdir' 'cmTC_4ffa0.'
  /usr/lib/gcc/aarch64-linux-gnu/11/collect2 -plugin /usr/lib/gcc/aarch64-linux-gnu/11/liblto_plugin.so -plugin-opt=/usr/lib/gcc/aarch64-linux-gnu/11/lto-wrapper -plugin-opt=-fresolution=/tmp/ccG52KWN.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib/ld-linux-aarch64.so.1 -X -EL -maarch64linux --fix-cortex-a53-843419 -pie -o cmTC_4ffa0 /usr/lib/gcc/aarch64-linux-gnu/11/../../../aarch64-linux-gnu/Scrt1.o /usr/lib/gcc/aarch64-linux-gnu/11/../../../aarch64-linux-gnu/crti.o /usr/lib/gcc/aarch64-linux-gnu/11/crtbeginS.o -L/usr/lib/gcc/aarch64-linux-gnu/11 -L/usr/lib/gcc/aarch64-linux-gnu/11/../../../aarch64-linux-gnu -L/usr/lib/gcc/aarch64-linux-gnu/11/../../../../lib -L/lib/aarch64-linux-gnu -L/lib/../lib -L/usr/lib/aarch64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/aarch64-linux-gnu/11/../../.. CMakeFiles/cmTC_4ffa0.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/aarch64-linux-gnu/11/crtendS.o /usr/lib/gcc/aarch64-linux-gnu/11/../../../aarch64-linux-gnu/crtn.o
 COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_4ffa0' '-mlittle-endian' '-mabi=lp64' '-dumpdir' 'cmTC_4ffa0.'
-gmake[1]: Leaving directory '/home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-AV2dBy'
+gmake[1]: Leaving directory '/home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-AV2dBy'
 
 
 
@@ -103,10 +103,10 @@ Parsed C implicit include dir info from above output: rv=done
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-AV2dBy]
+  ignore line: [Change Dir: /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-AV2dBy]
   ignore line: []
   ignore line: [Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_4ffa0/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_4ffa0.dir/build.make CMakeFiles/cmTC_4ffa0.dir/build]
-  ignore line: [gmake[1]: Entering directory '/home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-AV2dBy']
+  ignore line: [gmake[1]: Entering directory '/home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-AV2dBy']
   ignore line: [Building C object CMakeFiles/cmTC_4ffa0.dir/CMakeCCompilerABI.c.o]
   ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_4ffa0.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-3.25/Modules/CMakeCCompilerABI.c]
   ignore line: [Using built-in specs.]
@@ -225,10 +225,10 @@ Parsed C implicit link information from above output:
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-uYLmZD
+Change Dir: /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-uYLmZD
 
 Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_d267f/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_d267f.dir/build.make CMakeFiles/cmTC_d267f.dir/build
-gmake[1]: Entering directory '/home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-uYLmZD'
+gmake[1]: Entering directory '/home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-uYLmZD'
 Building CXX object CMakeFiles/cmTC_d267f.dir/CMakeCXXCompilerABI.cpp.o
 /usr/bin/c++   -v -o CMakeFiles/cmTC_d267f.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp
 Using built-in specs.
@@ -285,7 +285,7 @@ LIBRARY_PATH=/usr/lib/gcc/aarch64-linux-gnu/11/:/usr/lib/gcc/aarch64-linux-gnu/1
 COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_d267f' '-shared-libgcc' '-mlittle-endian' '-mabi=lp64' '-dumpdir' 'cmTC_d267f.'
  /usr/lib/gcc/aarch64-linux-gnu/11/collect2 -plugin /usr/lib/gcc/aarch64-linux-gnu/11/liblto_plugin.so -plugin-opt=/usr/lib/gcc/aarch64-linux-gnu/11/lto-wrapper -plugin-opt=-fresolution=/tmp/ccLMj1Tn.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib/ld-linux-aarch64.so.1 -X -EL -maarch64linux --fix-cortex-a53-843419 -pie -o cmTC_d267f /usr/lib/gcc/aarch64-linux-gnu/11/../../../aarch64-linux-gnu/Scrt1.o /usr/lib/gcc/aarch64-linux-gnu/11/../../../aarch64-linux-gnu/crti.o /usr/lib/gcc/aarch64-linux-gnu/11/crtbeginS.o -L/usr/lib/gcc/aarch64-linux-gnu/11 -L/usr/lib/gcc/aarch64-linux-gnu/11/../../../aarch64-linux-gnu -L/usr/lib/gcc/aarch64-linux-gnu/11/../../../../lib -L/lib/aarch64-linux-gnu -L/lib/../lib -L/usr/lib/aarch64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/aarch64-linux-gnu/11/../../.. CMakeFiles/cmTC_d267f.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/aarch64-linux-gnu/11/crtendS.o /usr/lib/gcc/aarch64-linux-gnu/11/../../../aarch64-linux-gnu/crtn.o
 COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_d267f' '-shared-libgcc' '-mlittle-endian' '-mabi=lp64' '-dumpdir' 'cmTC_d267f.'
-gmake[1]: Leaving directory '/home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-uYLmZD'
+gmake[1]: Leaving directory '/home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-uYLmZD'
 
 
 
@@ -312,10 +312,10 @@ Parsed CXX implicit include dir info from above output: rv=done
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-uYLmZD]
+  ignore line: [Change Dir: /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-uYLmZD]
   ignore line: []
   ignore line: [Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_d267f/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_d267f.dir/build.make CMakeFiles/cmTC_d267f.dir/build]
-  ignore line: [gmake[1]: Entering directory '/home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-uYLmZD']
+  ignore line: [gmake[1]: Entering directory '/home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-uYLmZD']
   ignore line: [Building CXX object CMakeFiles/cmTC_d267f.dir/CMakeCXXCompilerABI.cpp.o]
   ignore line: [/usr/bin/c++   -v -o CMakeFiles/cmTC_d267f.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp]
   ignore line: [Using built-in specs.]
@@ -434,12 +434,12 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting C OpenMP compiler ABI info compiled with the following output:
-Change Dir: /home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE
+Change Dir: /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE
 
 Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_9965e/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_9965e.dir/build.make CMakeFiles/cmTC_9965e.dir/build
-gmake[1]: Entering directory '/home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE'
+gmake[1]: Entering directory '/home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE'
 Building C object CMakeFiles/cmTC_9965e.dir/OpenMPTryFlag.c.o
-/usr/bin/cc   -fopenmp -v -o CMakeFiles/cmTC_9965e.dir/OpenMPTryFlag.c.o -c /home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE/OpenMPTryFlag.c
+/usr/bin/cc   -fopenmp -v -o CMakeFiles/cmTC_9965e.dir/OpenMPTryFlag.c.o -c /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE/OpenMPTryFlag.c
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 Target: aarch64-linux-gnu
@@ -448,7 +448,7 @@ Thread model: posix
 Supported LTO compression algorithms: zlib zstd
 gcc version 11.3.0 (Debian 11.3.0-12) 
 COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-o' 'CMakeFiles/cmTC_9965e.dir/OpenMPTryFlag.c.o' '-c' '-mlittle-endian' '-mabi=lp64' '-pthread' '-dumpdir' 'CMakeFiles/cmTC_9965e.dir/'
- /usr/lib/gcc/aarch64-linux-gnu/11/cc1 -quiet -v -imultiarch aarch64-linux-gnu -D_REENTRANT /home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE/OpenMPTryFlag.c -quiet -dumpdir CMakeFiles/cmTC_9965e.dir/ -dumpbase OpenMPTryFlag.c.c -dumpbase-ext .c -mlittle-endian -mabi=lp64 -version -fopenmp -fasynchronous-unwind-tables -o /tmp/ccudNP2c.s
+ /usr/lib/gcc/aarch64-linux-gnu/11/cc1 -quiet -v -imultiarch aarch64-linux-gnu -D_REENTRANT /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE/OpenMPTryFlag.c -quiet -dumpdir CMakeFiles/cmTC_9965e.dir/ -dumpbase OpenMPTryFlag.c.c -dumpbase-ext .c -mlittle-endian -mabi=lp64 -version -fopenmp -fasynchronous-unwind-tables -o /tmp/ccudNP2c.s
 GNU C17 (Debian 11.3.0-12) version 11.3.0 (aarch64-linux-gnu)
 	compiled by GNU C version 11.3.0, GMP version 6.2.1, MPFR version 4.2.0, MPC version 1.3.1, isl version isl-0.25-GMP
 
@@ -491,18 +491,18 @@ Reading specs from /usr/lib/gcc/aarch64-linux-gnu/11/libgomp.spec
 COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-rdynamic' '-o' 'cmTC_9965e' '-v' '-mlittle-endian' '-mabi=lp64' '-pthread' '-dumpdir' 'cmTC_9965e.'
  /usr/lib/gcc/aarch64-linux-gnu/11/collect2 -plugin /usr/lib/gcc/aarch64-linux-gnu/11/liblto_plugin.so -plugin-opt=/usr/lib/gcc/aarch64-linux-gnu/11/lto-wrapper -plugin-opt=-fresolution=/tmp/ccUp3o3k.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib/ld-linux-aarch64.so.1 -X -EL -maarch64linux --fix-cortex-a53-843419 -pie -o cmTC_9965e /usr/lib/gcc/aarch64-linux-gnu/11/../../../aarch64-linux-gnu/Scrt1.o /usr/lib/gcc/aarch64-linux-gnu/11/../../../aarch64-linux-gnu/crti.o /usr/lib/gcc/aarch64-linux-gnu/11/crtbeginS.o -L/usr/lib/gcc/aarch64-linux-gnu/11 -L/usr/lib/gcc/aarch64-linux-gnu/11/../../../aarch64-linux-gnu -L/usr/lib/gcc/aarch64-linux-gnu/11/../../../../lib -L/lib/aarch64-linux-gnu -L/lib/../lib -L/usr/lib/aarch64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/aarch64-linux-gnu/11/../../.. CMakeFiles/cmTC_9965e.dir/OpenMPTryFlag.c.o -lgomp -lgcc --push-state --as-needed -lgcc_s --pop-state -lpthread -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/aarch64-linux-gnu/11/crtendS.o /usr/lib/gcc/aarch64-linux-gnu/11/../../../aarch64-linux-gnu/crtn.o
 COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-rdynamic' '-o' 'cmTC_9965e' '-v' '-mlittle-endian' '-mabi=lp64' '-pthread' '-dumpdir' 'cmTC_9965e.'
-gmake[1]: Leaving directory '/home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE'
+gmake[1]: Leaving directory '/home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE'
 
 
 
 Parsed C OpenMP implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE]
+  ignore line: [Change Dir: /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE]
   ignore line: []
   ignore line: [Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_9965e/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_9965e.dir/build.make CMakeFiles/cmTC_9965e.dir/build]
-  ignore line: [gmake[1]: Entering directory '/home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE']
+  ignore line: [gmake[1]: Entering directory '/home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE']
   ignore line: [Building C object CMakeFiles/cmTC_9965e.dir/OpenMPTryFlag.c.o]
-  ignore line: [/usr/bin/cc   -fopenmp -v -o CMakeFiles/cmTC_9965e.dir/OpenMPTryFlag.c.o -c /home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE/OpenMPTryFlag.c]
+  ignore line: [/usr/bin/cc   -fopenmp -v -o CMakeFiles/cmTC_9965e.dir/OpenMPTryFlag.c.o -c /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE/OpenMPTryFlag.c]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [Target: aarch64-linux-gnu]
@@ -511,7 +511,7 @@ Parsed C OpenMP implicit link information from above output:
   ignore line: [Supported LTO compression algorithms: zlib zstd]
   ignore line: [gcc version 11.3.0 (Debian 11.3.0-12) ]
   ignore line: [COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-o' 'CMakeFiles/cmTC_9965e.dir/OpenMPTryFlag.c.o' '-c' '-mlittle-endian' '-mabi=lp64' '-pthread' '-dumpdir' 'CMakeFiles/cmTC_9965e.dir/']
-  ignore line: [ /usr/lib/gcc/aarch64-linux-gnu/11/cc1 -quiet -v -imultiarch aarch64-linux-gnu -D_REENTRANT /home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE/OpenMPTryFlag.c -quiet -dumpdir CMakeFiles/cmTC_9965e.dir/ -dumpbase OpenMPTryFlag.c.c -dumpbase-ext .c -mlittle-endian -mabi=lp64 -version -fopenmp -fasynchronous-unwind-tables -o /tmp/ccudNP2c.s]
+  ignore line: [ /usr/lib/gcc/aarch64-linux-gnu/11/cc1 -quiet -v -imultiarch aarch64-linux-gnu -D_REENTRANT /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-zPUyeE/OpenMPTryFlag.c -quiet -dumpdir CMakeFiles/cmTC_9965e.dir/ -dumpbase OpenMPTryFlag.c.c -dumpbase-ext .c -mlittle-endian -mabi=lp64 -version -fopenmp -fasynchronous-unwind-tables -o /tmp/ccudNP2c.s]
   ignore line: [GNU C17 (Debian 11.3.0-12) version 11.3.0 (aarch64-linux-gnu)]
   ignore line: [	compiled by GNU C version 11.3.0  GMP version 6.2.1  MPFR version 4.2.0  MPC version 1.3.1  isl version isl-0.25-GMP]
   ignore line: []
@@ -615,12 +615,12 @@ Parsed C OpenMP implicit link information from above output:
 
 
 Detecting CXX OpenMP compiler ABI info compiled with the following output:
-Change Dir: /home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW
+Change Dir: /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW
 
 Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_921f9/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_921f9.dir/build.make CMakeFiles/cmTC_921f9.dir/build
-gmake[1]: Entering directory '/home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW'
+gmake[1]: Entering directory '/home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW'
 Building CXX object CMakeFiles/cmTC_921f9.dir/OpenMPTryFlag.cpp.o
-/usr/bin/c++   -fopenmp -v -o CMakeFiles/cmTC_921f9.dir/OpenMPTryFlag.cpp.o -c /home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW/OpenMPTryFlag.cpp
+/usr/bin/c++   -fopenmp -v -o CMakeFiles/cmTC_921f9.dir/OpenMPTryFlag.cpp.o -c /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW/OpenMPTryFlag.cpp
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 Target: aarch64-linux-gnu
@@ -629,7 +629,7 @@ Thread model: posix
 Supported LTO compression algorithms: zlib zstd
 gcc version 11.3.0 (Debian 11.3.0-12) 
 COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-o' 'CMakeFiles/cmTC_921f9.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-mlittle-endian' '-mabi=lp64' '-pthread' '-dumpdir' 'CMakeFiles/cmTC_921f9.dir/'
- /usr/lib/gcc/aarch64-linux-gnu/11/cc1plus -quiet -v -imultiarch aarch64-linux-gnu -D_GNU_SOURCE -D_REENTRANT /home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW/OpenMPTryFlag.cpp -quiet -dumpdir CMakeFiles/cmTC_921f9.dir/ -dumpbase OpenMPTryFlag.cpp.cpp -dumpbase-ext .cpp -mlittle-endian -mabi=lp64 -version -fopenmp -fasynchronous-unwind-tables -o /tmp/cc8Vhy3I.s
+ /usr/lib/gcc/aarch64-linux-gnu/11/cc1plus -quiet -v -imultiarch aarch64-linux-gnu -D_GNU_SOURCE -D_REENTRANT /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW/OpenMPTryFlag.cpp -quiet -dumpdir CMakeFiles/cmTC_921f9.dir/ -dumpbase OpenMPTryFlag.cpp.cpp -dumpbase-ext .cpp -mlittle-endian -mabi=lp64 -version -fopenmp -fasynchronous-unwind-tables -o /tmp/cc8Vhy3I.s
 GNU C++17 (Debian 11.3.0-12) version 11.3.0 (aarch64-linux-gnu)
 	compiled by GNU C version 11.3.0, GMP version 6.2.1, MPFR version 4.2.0, MPC version 1.3.1, isl version isl-0.25-GMP
 
@@ -676,18 +676,18 @@ Reading specs from /usr/lib/gcc/aarch64-linux-gnu/11/libgomp.spec
 COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-rdynamic' '-o' 'cmTC_921f9' '-v' '-shared-libgcc' '-mlittle-endian' '-mabi=lp64' '-pthread' '-dumpdir' 'cmTC_921f9.'
  /usr/lib/gcc/aarch64-linux-gnu/11/collect2 -plugin /usr/lib/gcc/aarch64-linux-gnu/11/liblto_plugin.so -plugin-opt=/usr/lib/gcc/aarch64-linux-gnu/11/lto-wrapper -plugin-opt=-fresolution=/tmp/ccSx2k7G.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib/ld-linux-aarch64.so.1 -X -EL -maarch64linux --fix-cortex-a53-843419 -pie -o cmTC_921f9 /usr/lib/gcc/aarch64-linux-gnu/11/../../../aarch64-linux-gnu/Scrt1.o /usr/lib/gcc/aarch64-linux-gnu/11/../../../aarch64-linux-gnu/crti.o /usr/lib/gcc/aarch64-linux-gnu/11/crtbeginS.o -L/usr/lib/gcc/aarch64-linux-gnu/11 -L/usr/lib/gcc/aarch64-linux-gnu/11/../../../aarch64-linux-gnu -L/usr/lib/gcc/aarch64-linux-gnu/11/../../../../lib -L/lib/aarch64-linux-gnu -L/lib/../lib -L/usr/lib/aarch64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/aarch64-linux-gnu/11/../../.. CMakeFiles/cmTC_921f9.dir/OpenMPTryFlag.cpp.o -lstdc++ -lm -lgomp -lgcc_s -lgcc -lpthread -lc -lgcc_s -lgcc /usr/lib/gcc/aarch64-linux-gnu/11/crtendS.o /usr/lib/gcc/aarch64-linux-gnu/11/../../../aarch64-linux-gnu/crtn.o
 COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-rdynamic' '-o' 'cmTC_921f9' '-v' '-shared-libgcc' '-mlittle-endian' '-mabi=lp64' '-pthread' '-dumpdir' 'cmTC_921f9.'
-gmake[1]: Leaving directory '/home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW'
+gmake[1]: Leaving directory '/home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW'
 
 
 
 Parsed CXX OpenMP implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW]
+  ignore line: [Change Dir: /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW]
   ignore line: []
   ignore line: [Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_921f9/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_921f9.dir/build.make CMakeFiles/cmTC_921f9.dir/build]
-  ignore line: [gmake[1]: Entering directory '/home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW']
+  ignore line: [gmake[1]: Entering directory '/home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW']
   ignore line: [Building CXX object CMakeFiles/cmTC_921f9.dir/OpenMPTryFlag.cpp.o]
-  ignore line: [/usr/bin/c++   -fopenmp -v -o CMakeFiles/cmTC_921f9.dir/OpenMPTryFlag.cpp.o -c /home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW/OpenMPTryFlag.cpp]
+  ignore line: [/usr/bin/c++   -fopenmp -v -o CMakeFiles/cmTC_921f9.dir/OpenMPTryFlag.cpp.o -c /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW/OpenMPTryFlag.cpp]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [Target: aarch64-linux-gnu]
@@ -696,7 +696,7 @@ Parsed CXX OpenMP implicit link information from above output:
   ignore line: [Supported LTO compression algorithms: zlib zstd]
   ignore line: [gcc version 11.3.0 (Debian 11.3.0-12) ]
   ignore line: [COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-o' 'CMakeFiles/cmTC_921f9.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-mlittle-endian' '-mabi=lp64' '-pthread' '-dumpdir' 'CMakeFiles/cmTC_921f9.dir/']
-  ignore line: [ /usr/lib/gcc/aarch64-linux-gnu/11/cc1plus -quiet -v -imultiarch aarch64-linux-gnu -D_GNU_SOURCE -D_REENTRANT /home/rasp7/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW/OpenMPTryFlag.cpp -quiet -dumpdir CMakeFiles/cmTC_921f9.dir/ -dumpbase OpenMPTryFlag.cpp.cpp -dumpbase-ext .cpp -mlittle-endian -mabi=lp64 -version -fopenmp -fasynchronous-unwind-tables -o /tmp/cc8Vhy3I.s]
+  ignore line: [ /usr/lib/gcc/aarch64-linux-gnu/11/cc1plus -quiet -v -imultiarch aarch64-linux-gnu -D_GNU_SOURCE -D_REENTRANT /home/pi/dog/src/ORB_SLAM3/Thirdparty/g2o/build/CMakeFiles/CMakeScratch/TryCompile-NofwAW/OpenMPTryFlag.cpp -quiet -dumpdir CMakeFiles/cmTC_921f9.dir/ -dumpbase OpenMPTryFlag.cpp.cpp -dumpbase-ext .cpp -mlittle-endian -mabi=lp64 -version -fopenmp -fasynchronous-unwind-tables -o /tmp/cc8Vhy3I.s]
   ignore line: [GNU C++17 (Debian 11.3.0-12) version 11.3.0 (aarch64-linux-gnu)]
   ignore line: [	compiled by GNU C version 11.3.0  GMP version 6.2.1  MPFR version 4.2.0  MPC version 1.3.1  isl version isl-0.25-GMP]
   ignore line: []
